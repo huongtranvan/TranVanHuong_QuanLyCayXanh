@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398114234667",
+    "project_id": "quanlycayxanh-48a2a",
+    "storage_bucket": "quanlycayxanh-48a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398114234667:android:6817574604e14d0c14e56e",
+        "android_client_info": {
+          "package_name": "com.example.android_baikiemtra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398114234667-1712gtrp6fb3pvun20m2c7uk73etofs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLu7T3Ff1Cs3uEADzc8Q0vt5F0ThMIPk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398114234667-1712gtrp6fb3pvun20m2c7uk73etofs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
